@@ -1,3 +1,6 @@
- To <code></code> 
+function chessBoard (){
  
+console.log();
+}
+chessBoard();
  
